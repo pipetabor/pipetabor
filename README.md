@@ -2,9 +2,8 @@
 
 🎯 Senior Software Developer | Technical Lead | .NET & Angular Specialist  
 🌍 Apasionado por el liderazgo técnico, la innovación y la inteligencia artificial.  
-🧠 Mi core es crear soluciones eficientes, escalables y bien diseñadas.
+🧠 Mi core es crear soluciones eficientes, escalables y bien diseñadas.  
 📢 Abierto a oportunidades remotas internacionales (inglés profesional)
-
 
 ---
 
