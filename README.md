@@ -28,7 +28,7 @@ Busco aportar valor en entornos internacionales, trabajando con equipos globales
 ## 🧰 Tecnologías y herramientas
 
 ### 🖥️ Back-End
-- .NET 6/7, ASP.NET Core, C#
+- .NET, ASP.NET Core, C#
 - Entity Framework, LINQ, Web API
 - Arquitecturas limpias (MVC, DDD, Hexagonal)
 
