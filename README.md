@@ -1,119 +1,79 @@
-# 👋 Hola, soy Andrés Felipe Taborda
+<div align="center">
 
-🎯 Senior Software Developer | Technical Lead | .NET & Angular Specialist  
-🌍 Apasionado por el liderazgo técnico, la innovación y la inteligencia artificial.  
-🧠 Mi core es crear soluciones eficientes, escalables y bien diseñadas.  
-📢 Abierto a oportunidades remotas internacionales (inglés profesional)
+# 👋 Hi, I'm Andrés Felipe Taborda
 
----
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=GenAI+Adoption+Leader;Software+Development+Lead;AI+%26+Modern+Web+Specialist;Building+hyper-productive+teams" alt="Typing SVG" />
 
-## 🚀 Sobre mí
+🌍 Based in Colombia, working globally (B2B Remote)
 
-Soy ingeniero de software con más de 15 años de experiencia desarrollando e implementando soluciones tecnológicas para los sectores salud, financiero, seguros y transporte. Mi enfoque combina liderazgo técnico, pensamiento analítico y pasión por la innovación.
-
-Actualmente me desempeño como **Technical Lead** y **Cross-AI** en una empresa multinacional, liderando proyectos de modernización tecnológica y transformación digital para una de las aerolíneas más grandes del mundo.
-
-Desde mi rol como **Single Point of Contact (SPOC) en IA**, impulso la adopción de inteligencia artificial aplicada al desarrollo de software, automatización de procesos, análisis de datos y optimización de flujos empresariales. Apoyo a distintos equipos en la identificación y diseño de soluciones con IA generativa, modelos de lenguaje y arquitecturas RAG.
-
-🔹 Experiencia sólida en desarrollo full stack con .NET, C#, Angular, SQL Server y Azure  
-🔹 Liderazgo en diseño de soluciones, migraciones tecnológicas y automatización de procesos  
-🔹 Interacción directa con stakeholders, toma de requerimientos y visión estratégica  
-🔹 Implementación de software de facturación electrónica, trazabilidad y gestión de datos críticos  
-🔹 Mentalidad ágil, orientado a resultados y comprometido con la mejora continua
-
-Busco aportar valor en entornos internacionales, trabajando con equipos globales y proyectos que combinen tecnología de punta, impacto real y colaboración.
+</div>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 💡 About Me
 
-### 🖥️ Back-End
-- .NET, ASP.NET Core, C#
-- Entity Framework, LINQ, Web API
-- Arquitecturas limpias (MVC, DDD, Hexagonal)
+I'm a software engineer with over 15 years of experience building tech solutions, but my current obsession is the intersection of **engineering productivity and Generative AI**. 
 
-### 🎨 Front-End
-- Angular, TypeScript, RxJS
-- HTML5, SCSS, Bootstrap, DevExpress
+Currently working as a **GenAI Software Development Lead**, my core mission is helping companies adopt GenAI strategies to streamline workflows, improve DORA metrics, and take developer efficiency to the absolute next level. 
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure (App Services, Azure Functions, Azure SQL)
-- Azure DevOps (CI/CD Pipelines, Boards, Repos)
-- GitHub Actions, Docker, Swagger
-
-### 🛢️ Bases de datos
-- SQL Server, Oracle, PostgreSQL, MySQL
-- T-SQL, optimización de consultas, procedimientos almacenados
-
-### 🧠 Inteligencia Artificial & Automatización
-- OpenAI, Azure OpenAI, LangChain, Ollama, RAG
-- Aplicaciones con LLMs (Copilot Studio, agentes, chatbots)
-- Automatización de flujos con Power Automate y Python
-
-### 🛠️ Herramientas y prácticas
-- Git, GitHub, Jira, Postman, SonarQube
-- Clean Code, SOLID, pruebas unitarias e integración
-- Metodologías ágiles (Scrum, Kanban)
+**What defines me:**
+* **AI-First Mindset:** Integrating tools like Gemini, Claude Code, and OpenAI directly into the software development lifecycle.
+* **Continuous Evolution:** Deep expertise in .NET and Angular, now expanding boundaries into modern ecosystems with React, Next.js, and Node.js.
+* **Impact-Driven Leadership:** I strongly believe the best technology is the one that empowers people and solves real-world problems.
 
 ---
 
-## 📌 Proyectos destacados
+## 🧰 Tech Stack & Tools
 
-### 💼 WorkWhiz — Freelance Marketplace
-**[Back-end](https://github.com/pipetabor/WorkWhiz) · [Front-end](https://github.com/pipetabor/WorkWhizFront)**  
-Plataforma freelance tipo marketplace que conecta clientes con freelancers mediante un sistema de subastas.  
-Los clientes publican proyectos y los freelancers pueden ofertar, negociar y colaborar dentro del sistema.  
-🛠️ ASP.NET Core · Angular · SQL Server · Entity Framework · JWT · Bootstrap
+**🧠 GenAI & LLMs:** ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
----
+**⚡ Modern Web & Frontend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-### 🌐 DevPilot (IA aplicada al desarrollo) *(en construcción)*  
-Copiloto de desarrollo local basado en LLMs, integrado con Visual Studio Code y Ollama.  
-Permite interacción en tiempo real, generación de código bajo demanda y análisis de proyectos mediante RAG.  
-🛠️ Node.js · TypeScript · Ollama · LangChain · CodeLlama · RAG
-
----
-
-### 🔧 eFacturación Colombia
-**[Repositorio](https://github.com/pipetabor/eFacturacionColombia_V2.Firma)**  
-Sistema de firma digital para facturación electrónica en Colombia, cumpliendo con los requisitos de la DIAN.  
-🛠️ .NET WinForms · C# · SQL Server · Firma electrónica · Certificados digitales
+**🏗️ Backend & Cloud:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 🧾 Sistema de Facturación Electrónica (Desktop)
-Aplicación de escritorio desarrollada para gestionar procesos completos de facturación electrónica en Colombia, desde la emisión hasta la validación ante la DIAN.  
-El sistema fue comercializado por un periodo y usado por varios clientes del sector salud y comercio.
+## 📌 Featured Projects & Explorations
 
-Incluye una interfaz moderna construida con componentes DevExpress, generación de XMLs conforme a los estándares gubernamentales, firma digital con certificados, y control de estados de las facturas.
+### 🎧 GhostReader
+An app designed to turn web articles and news into a personalized podcast. It uses AI to extract content, summarize it, and generate natural audio, allowing users to consume written information on the go and optimize their time.  
+*Stack:* LLMs · Text-to-Speech (TTS) · Node.js · Next.js
 
-🛠️ .NET Framework · WinForms · DevExpress · SQL Server · Facturación electrónica · Certificados digitales · Interfaz DIAN  
-🔒 Repositorio privado por contener componentes comerciales e integraciones específicas
+### 🍎 AI-Powered PWA: Kids' Nutrition
+A Progressive Web App focused on nutritional data analysis for children's lunchboxes, powered by the Gemini API to generate smart, dynamic, and healthy meal recommendations.  
+*Stack:* Next.js · Node.js · Gemini API · Vercel
 
----
+### 🤖 Claude Code Skills: "Gartner-like Presentation"
+Custom-built Skills for Claude Code, designed to automate engineering workflows and generate Gartner-style executive reports and presentations directly from technical data.  
+*Stack:* Claude Code · MCP Servers · Prompt Engineering
 
-### 📦 API REST de productos *(en desarrollo)*  
-API pública con autenticación JWT y documentación Swagger, lista para ser consumida por frontends Angular o Postman.  
-🛠️ ASP.NET Core · Entity Framework · SQL Server · JWT · Swagger · Clean Architecture
-
----
-
-### 📁 Portafolio técnico Dev
-Landing page con los proyectos más representativos, información profesional y enlaces de contacto.  
-🛠️ GitHub Pages · HTML · CSS · Markdown
+### 🌐 DevPilot (Local AI for Development)
+A local development copilot based on LLMs, integrated with Visual Studio Code and Ollama. Enables real-time interaction, on-demand code generation, and project analysis using RAG.  
+*Stack:* Node.js · TypeScript · Ollama · LangChain · RAG
 
 ---
 
-## 🌐 Encuéntrame
+## 📊 My GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pipetabor&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&text_color=777777&icon_color=4285F4" alt="pipetabor's GitHub Stats" />
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 📫 **Email:** enovationcolombia@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/pipetabor](https://www.linkedin.com/in/pipetabor)  
-📁 **Portafolio Web:** *(en construcción)*  
-🐙 **GitHub:** [github.com/pipetabor](https://github.com/pipetabor)
 
----
-
-> Si te interesa colaborar, tienes un proyecto en mente o simplemente quieres conversar sobre tecnología, ¡no dudes en escribirme!
-
-
----
+> *"Transforming code into impact, and teams into productivity powerhouses."*
